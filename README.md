@@ -1,4 +1,4 @@
-# 🏅 Certificates
+# 🏅 Certification
 
 Welcome to my Certificates repository!  
 Here, you’ll find a collection of my professional certifications and achievements in software testing, cloud computing, data analytics, and artificial intelligence.
