@@ -1,6 +1,6 @@
-# 🏅 Certification
+# 🏅 Certifications
 
-Welcome to my Certificates repository!  
+Welcome to my Certifications repository!  
 Here, you’ll find a collection of my professional certifications and achievements in software testing, cloud computing, data analytics, and artificial intelligence.
 
 ## 📜 List of Certifications
